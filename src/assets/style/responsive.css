@@ -1,0 +1,13 @@
+@media (max-width: 414px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+
+
+@media (min-width: 415px) {
+    .visible-xs {
+      display: none !important;
+    }
+  }
+  
