@@ -1,8 +1,10 @@
+// 公共逻辑文件
 import "@/assets/js/flexible.js";
-import "@/assets/style/normalize.css";
-import "@/assets/style/animate.min.css";
-import "@/assets/style/responsive.css";
+
+
+// 公共样式文件
 import "./index.less";
 
-// js
-// import { WOW } from "wowjs";
+
+// 内部逻辑编写
+// import { xxx } from "xxx";

@@ -1,12 +1,10 @@
+// 公共逻辑文件
 import "@/assets/js/flexible.js";
 
-import "@/assets/style/responsive.css";
-import "swiper/swiper-bundle.css";
-import "@/assets/style/normalize.css";
-import "@/assets/style/animate.min.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
+// 公共样式文件
 import "./index.less";
 
-// js
+
+// 内部逻辑编写
+// import { xxx } from "xxx";
